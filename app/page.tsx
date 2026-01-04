@@ -183,7 +183,7 @@ export default function HomePage() {
                 </div>
 
                 <Link
-                  href="/enroll"
+                  href="https://t.me/istancapitalfx               "
                   className="mt-auto  flex items-center gap-2 text-sm font-semibold text-primary group-hover:underline"
                 >
                   Enroll Now
@@ -598,7 +598,7 @@ export default function HomePage() {
               Join Our <span className="text-primary">Telegram</span> Group
             </h2>
             <a
-              href="https://t.me/yourlink"
+              href="https://t.me/istancapitalfx"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center bg-primary text-primary-foreground px-10 py-4 rounded-2xl font-black uppercase text-[15px] transition-all duration-300 hover:scale-105 hover:shadow-[0_0_30px_rgba(var(--primary),0.3)] active:scale-95"
